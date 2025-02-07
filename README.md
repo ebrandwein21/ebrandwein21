@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ebrandwein21
-- 👀 I’m interested in... Hiking, Pokemon, 
-- 🌱 I’m currently learning ... Python, Computer Networks, unity development, shell scripting
+- 👀 I’m interested in... - Computer Networks, C# development,web development, database management
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
